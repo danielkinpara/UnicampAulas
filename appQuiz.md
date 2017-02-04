@@ -20,6 +20,17 @@ A seguir são apresentados os objetos com indicação do seu nome e descrição:
   * _botao1_: primeiro botão de resposta logo abaixo da imagem;
   * _botao2_: segundo botão de resposta;
   * _botao3_: terceiro botão de resposta;
+  * _imagemQuestao_: recebe a imagem da pergunta;
+  
+2. Tela de feedback:
+  * _janelaFeedback_: tela pop-up com mensagem;
+  * _textoFeedback_: texto que será exibido na tela de pop-up;
+  * _botaoFeedback_: botão de fechamento da tela de pop-up.
+
+## Estrutura
+
+O aplicativo apresenta uma imagem e três
+ 
 
 
 
